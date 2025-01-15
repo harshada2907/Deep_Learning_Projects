@@ -5,7 +5,7 @@ from tensorflow import keras
 from tensorflow.keras import Sequential
 from tensorflow.keras.layers import Dense, Flatten
 import matplotlib.pyplot as plt
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuragicy_score
 import warnings 
 warnings.filterwarnings("ignore")
 
